@@ -30,6 +30,7 @@ Resources for learning Git:
 
 - Sunny will now also add another joke to the end of Practice.md and then we attempt a merge. 
 - Sunny changes part of the first joke and attempt a merge to show how to resolve a merge conflict. 
+- Show them how to revert to a previous commit 
 - Show them how to create the data.R file path and explain why we do this
 
 ## Further material
