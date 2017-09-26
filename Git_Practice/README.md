@@ -12,7 +12,8 @@ Git can be either used on its own or it is also nicely incorporated into RStudio
 I recommend using command line git. It's only a few commands to learn and will make your life a lot easier when you run into problems. Virtually everyone in the online community uses command line git and there are a lot of answers out there to git problems with command line solutions. With that said, Git Bash is recommended for this purpose. Mac users already have this in Terminal but Windows users will need to install it (if you use the install above, bash is included). RStudio also has a Shell that can be used.
 
 Resources for learning Git:
-- This site[https://git-scm.com/book/id/v2/Getting-Started-First-Time-Git-Setup] offers a good introduction to the basics of using the command line in Git. 
+
+- [This site](https://git-scm.com/book/id/v2/Getting-Started-First-Time-Git-Setup) offers a good introduction to the basics of using the command line in Git. 
 - I also recommend printing this [cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf) out and having it in front of you as you work. 
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 - [Further Material](http://swcarpentry.github.io/git-novice/)
