@@ -1,6 +1,4 @@
-A rough and tough cowboy finishes his drink at a bar and gets up to leave. A minute later, he comes back in saying with a mean look in his eye "I'm going to sit down and have one more drink, and if my horse isn't back where I left it, I'm gonna have to do what I done in Texas, And I really don't wanna have to do what I done back in Texas!"
-True to his word, he sits down, orders another drink, sits in the [silent] bar and finishes his drink. He then gets up and walks outside and sure enough, his horse is back tied up where he left it. As he's just about to ride off, one of the other patrons timidly asks, "mister? What was it you had to do in Texas?" The cowboy gets a far off look in his eyes and says sadly, "I had to walk home."
-
-
 What do teachers do with crude oil?
 Teach it some manners!
+
+Two hunters are out in the woods when one of them collapses. He doesn't seem to be breathing and his eyes are glazed. The other guy whips out his phone and calls the emergency services. He gasps, "My friend is dead! What can I do?" The operator says, "Calm down. I can help. First, let's make sure he's dead." There is a silence; then a gun shot is heard. Back on the phone, the guy says, "OK, now what?"
