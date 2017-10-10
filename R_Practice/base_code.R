@@ -21,7 +21,7 @@ time_int <- 121
 # ===========================================================================
 # load in datasets
 # ===========================================================================
-load(file.path(root, "R_Practice/data/state.Rda"))
-load(file.path(root, "R_Practice/data/di.Rda"))
+load(file.path(root, "R_Practice/raw_data/state.Rda"))
+load(file.path(root, "R_Practice/raw_data/di.Rda"))
 
 
