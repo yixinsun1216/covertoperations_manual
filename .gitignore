@@ -2,5 +2,8 @@
 .Rhistory
 .RData
 .Ruserdata
+<<<<<<< HEAD
+=======
 covertoperations.RProj
+>>>>>>> eb2c42045bb5327e38805bd6fbfb88e28dc8caa5
 *.RProj

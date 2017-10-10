@@ -20,7 +20,7 @@ Resources for learning Git:
 
 ### Cloning and Pull Request
 
-- Once you've set up Git Bash or Git in Rstudio, clone https://github.com/yixinsun1216/covertoperations.git
+- Once you've set up Git Bash or Git in Rstudio, clone https://github.com/yixinsun1216/covertoperations_manual.git
 - create a new remote branch called [insert your name]. Git automatically sets your upstream to master, but you should change your upstream to [insert your name] so that when you are pulling and pushing changes, you do not change anything in master. To change your upstream, use the command 
     
     git branch -u origin/[name of upstream]
