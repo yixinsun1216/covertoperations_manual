@@ -1,7 +1,5 @@
 # Git Tutorial
 
-QUESTION FOR THOM: How do you feel about incorporating Ryan's commit format? https://github.com/kelloggrk/Kellogg_RA_Manual/wiki/GitHub-Commits
-
 **by Yixin Sun 9/26/17**
 
 This repo is meant to teach beginners how to use Git as it pertains to Thom Covert's projects. For the texas Relinquishment Acts project, the current workflow is to store code, figures we create, and RMarkdown files in Git for ease of collaboration. Dataframes, presentations, writing, and other bigger files are stored in the texas Dropbox. 
