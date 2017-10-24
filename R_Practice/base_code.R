@@ -3,7 +3,7 @@
 # DrillingInfo's lease data 
 
 root <- getwd()
-while(basename(root) != "covertoperations") {
+while(basename(root) != "covertoperations_manual") {
   root = dirname(root)
 }
 
