@@ -7,3 +7,5 @@ Why was 6 afraid of 7...7 ate 9
 
 Gordon Ramsey: Why did the chicken cross the road? Because you didn't freaking cook it!
 
+Why did the physics teacher break up with the biology teacher? There was no chemistry.
+
